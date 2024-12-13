@@ -62,7 +62,7 @@ Note: The following statistics only include public data. Private or anonymized d
 
 <div>
   <img width="49%" src="https://boinc.netsoft-online.com/e107_plugins/boinc/user_graph.php?cpid=48168740842e486398ca4090de2f20ae&type=3" title="Adiel's BOINC stats graph" alt="Adiel's BOINC stats graph"/>
-  <img width="49%" src="https://www.boincstats.com/signature/-1/user/88520907369/sig.png" title="Adiel's BOINC stats" alt="Adiel's BOINC stats"/>
+  <img width="49%" src="https://www.boincstats.com/signature/-1/user/206514589641/sig.png" title="Adiel's BOINC stats" alt="Adiel's BOINC stats"/>
 </div>
 
 [What is BOINC?](https://boinc.berkeley.edu/)
