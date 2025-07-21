@@ -6,7 +6,7 @@
   :man_technologist: About me
 </h2>
 
-I am a Software Development Engineering student from Mexico.
+I am a Software Development Engineer from Mexico.
 
 - 🌱 I’m currently learning Web Development.
 - 💡 I'm interested in learning about Artificial Intelligence.
